@@ -3,14 +3,14 @@
 int main(){
 
     char* poopoo;
-    poopoo = "¥¬®¦¦â";
+    poopoo = "Â¥Â¬Â®Â¦Â¦Ã¢";
     printf("%s\n",poopoo);//shit
 
     printf("Hello World");
 
-    printf("¤w¸g¦¨¥\push¤Wgithub");
+    printf("æ¸¬è©¦Pull Request");
 
-
+    
 
 return 0;
 }
